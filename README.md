@@ -304,3 +304,5 @@ Abre http://localhost:5173
 - Soroban: https://developers.stellar.org/docs/build/smart-contracts
 - Explorador (Testnet): https://stellar.expert/explorer/testnet
 - Stellar Lab: https://lab.stellar.org
+
+👉 Siguiente: [GUIA_TU_IDEA.md](GUIA_TU_IDEA.md)
