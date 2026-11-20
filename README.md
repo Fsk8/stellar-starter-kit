@@ -181,7 +181,7 @@ Recibirás 10,000 XLM de prueba, que no tienen valor real.
 ## B.1 Descargar el proyecto
 
 ```bash
-git clone https://github.com/TU_USUARIO/stellar-starter-kit.git
+git clone https://github.com/Fsk8/stellar-starter-kit.git
 cd stellar-starter-kit
 code .
 ```
